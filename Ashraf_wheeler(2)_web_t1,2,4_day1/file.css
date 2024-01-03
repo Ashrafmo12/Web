@@ -1,0 +1,238 @@
+.link
+{
+    text-decoration: none;
+    position: absolute;
+    top: 15pc;
+    left: 10pc;
+}
+.div1
+{
+    opacity: 1.5;
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: 0 0 20px black;
+    position: absolute;
+     left: 38pc;
+      top: 10pc;
+       align-items: center;
+       width: 20pc;
+       height: 25pc;
+}
+.H1
+{
+    position: absolute;
+    left: 37pc;
+    top: 9pc;
+}
+.newd
+{
+    position: absolute;
+    left: 5pc;
+    top: 15pc;  
+    width: 55pc;
+    height: 28pc;
+    border-color: rgb(18, 14, 14);
+    border-width: 3pc;
+    box-shadow: 0 0 15px black;
+}
+.h3
+{
+    position: absolute;
+    left: 15pc;
+    top: 6pc;
+}
+.b1
+{
+    position: absolute;
+    left: 30pc;
+    top: 7pc;
+}
+.l1
+{
+    position: absolute;
+    left: 42pc;
+    top: 7pc;
+}
+.l3
+{
+    position: absolute;
+    right: 13pc;
+    top: 7pc;
+}
+.l5
+{
+    position: absolute;
+    right: 13pc;
+    top: 15pc;
+}
+.check
+{
+    background-color: black;
+    width: 16pc;
+    position: absolute;
+    right: 13pc;
+    border-radius: 5px;
+    color: white;
+    top: 18pc;
+}
+.check3
+{
+    background-color: black;
+    width: 16pc;
+    position: absolute;
+    right: 13pc;
+    border-radius: 5px;
+    color: white;
+    top: 22pc;
+}
+.check2
+{
+    width: 16pc;
+    position: absolute;
+    right: 13pc;
+    border-radius: 5px;
+    top: 16.5pc;
+}
+.p3
+{
+    position: absolute;
+    right: 25pc;
+    top: 14pc;
+}
+.l4
+{
+    position: absolute;
+    right: 13pc;
+    top: 10pc;
+}
+.b2
+{
+    position: absolute;
+    left: 30pc;
+    top: 18pc;
+}
+.p1
+{
+    position: absolute;
+    right: 25pc;
+    top: 6pc;
+}
+.p2
+{
+    position: absolute;
+    right: 25pc;
+    top: 9pc;
+
+}
+.l2
+{
+    position: absolute;
+    left: 42pc;
+    top: 18pc;
+}
+.h4
+{
+    position: absolute;
+    left: 15pc;
+    top: 17pc;
+}
+.h5
+{
+    position: absolute;
+    left: 15pc;
+    top: 8pc;
+}
+.h6
+{
+    position: absolute;
+    left: 15pc;
+    top: 19pc;
+}
+.img1
+{
+    position: absolute;
+    left: 5pc;
+    top: 6pc;
+}
+.img2
+{
+    position: absolute;
+    left: 5pc;
+    top:17pc;
+}
+.newd2
+{
+    position: absolute;
+    left: 61pc;
+    top: 15pc;  
+    width: 30pc;
+    height: 28pc;
+    border-color: rgb(18, 14, 14);
+    border-width: 3pc;
+    box-shadow: 0 0 15px black;
+}
+.div3
+{
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: 0 0 20px black;
+    position: absolute;
+     right: 4pc;
+      top: 10pc;
+       align-items: center;
+       width: 20pc;
+       height: 25pc;
+}
+.forget
+{
+    width: 10pc; position: absolute;left: 4pc; top: 15pcpc;
+}
+.div2
+{
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: 0 0 20px black;
+    position: absolute;
+    left: 8pc;
+     top: 10pc;
+      align-items: center;
+      width: 20pc;
+      height: 25pc;
+}
+#h1
+{
+    position: absolute;
+    left: 38pc;
+}
+.main
+{
+    top: 10pc;
+    background-color: gray;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.div6
+{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+html
+{
+   scroll-behavior: smooth;
+}
+.div5
+{
+    display: flex;
+    width: 500vw;
+    height: 10pc;
+    transition: all 1.5s ease-in-out;
+}
+.div4
+{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
